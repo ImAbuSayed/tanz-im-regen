@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/tanz-im-regen/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Commercial Licensing for Tanz im Regen](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/tanz-im-regen/) |
+| **Get License** | [Music Rights & Licensing for Tanz im Regen](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/tanz-im-regen/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Tropfen fallen auf den Lack, die City leuchtet neonblau
+> Baby, komm in mein'n Wagen, ich weiß genau, was ich mich trau'
+> Dein Blick ist pure Danger, doch ich lieb' die Energy
+> Tanz im Regen mit mir, unsere eigene Symphonie
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
