@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/tanz-im-regen/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Music Rights & Licensing for Tanz im Regen](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/tanz-im-regen/) |
+| **Get License** | [Official Music Licensing for Tanz im Regen](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/tanz-im-regen/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `51c4d03ac345a5c0c0d88ab7995c83c19fac93b490824c17ec3d823a4319fef8` |
 | **Timestamp** | June 27, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.

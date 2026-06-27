@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Tanz im Regen
+
+This log tracks the cryptographic history and versioning for the song **Tanz im Regen** (tanz-im-regen).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-27T07:28:04.647180 | `v1` | `51c4d03ac345a5c0c0d88ab7995c83c19fac93b490824c17ec3d823a4319fef8` | `e0a40d503dd07f12955cc9da399f915114bb3be2bb477bdee7825a4e25d2562f` | `2026-06-27_tanz-im-regen-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
